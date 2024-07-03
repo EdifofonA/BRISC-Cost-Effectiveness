@@ -1,1 +1,1 @@
-# brisc-cost-effectiveness
+# BRISC-Cost-Effectiveness
